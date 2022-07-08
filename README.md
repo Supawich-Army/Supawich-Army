@@ -28,11 +28,3 @@ Hello my name is supawich
 
 #### Other
 ![Digital_Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
-
-## 📈 Github Stat
-
-[![Github Status](https://github-readme-stats.vercel.app/api?username=mikkipastel&count_private=true&theme=onedark&show_icons=true)](https://github.com/mikkipastel)
-
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikkipastel&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=f5f5f5)](https://github.com/mikkipastel)
-
-
